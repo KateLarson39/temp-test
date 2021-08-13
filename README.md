@@ -3,4 +3,4 @@
 
 ## Fix the spelling mistake
 
-I think I made a seplling mistake fix it!
+I think I made a spelling mistake fix it!
